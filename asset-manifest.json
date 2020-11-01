@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/uvisoft-test/static/css/main.670c5e05.chunk.css",
+    "main.js": "/uvisoft-test/static/js/main.24b38e5e.chunk.js",
+    "main.js.map": "/uvisoft-test/static/js/main.24b38e5e.chunk.js.map",
+    "runtime-main.js": "/uvisoft-test/static/js/runtime-main.76f04a4a.js",
+    "runtime-main.js.map": "/uvisoft-test/static/js/runtime-main.76f04a4a.js.map",
+    "static/js/2.ed1a8595.chunk.js": "/uvisoft-test/static/js/2.ed1a8595.chunk.js",
+    "static/js/2.ed1a8595.chunk.js.map": "/uvisoft-test/static/js/2.ed1a8595.chunk.js.map",
+    "index.html": "/uvisoft-test/index.html",
+    "static/css/main.670c5e05.chunk.css.map": "/uvisoft-test/static/css/main.670c5e05.chunk.css.map",
+    "static/js/2.ed1a8595.chunk.js.LICENSE.txt": "/uvisoft-test/static/js/2.ed1a8595.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76f04a4a.js",
+    "static/js/2.ed1a8595.chunk.js",
+    "static/css/main.670c5e05.chunk.css",
+    "static/js/main.24b38e5e.chunk.js"
+  ]
+}
