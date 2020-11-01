@@ -1,0 +1,36 @@
+.usersList {
+  overflow-x: auto;
+}
+
+.table {
+  width: 100%;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  text-align: center;
+  padding: 10px;
+}
+
+.table tr {
+  transition: all 0.3s;
+}
+
+.table tr:hover {
+  background: #e9e9e9;
+}
+
+.table td,
+th {
+  border: 1px solid #e9e9e9;
+}
+
+th {
+  background: #e5e5ff;
+}
+
+td {
+  cursor: pointer;
+}
